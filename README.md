@@ -1,1 +1,1 @@
-# full_data_science_projects
+# This repository contains full data science projects
